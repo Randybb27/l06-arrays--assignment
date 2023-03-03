@@ -1,0 +1,15 @@
+/Users/randybeebe/Desktop/C#-Course/l06-arrays/l06-arrays/bin/Debug/net6.0/l06-arrays
+/Users/randybeebe/Desktop/C#-Course/l06-arrays/l06-arrays/bin/Debug/net6.0/l06-arrays.deps.json
+/Users/randybeebe/Desktop/C#-Course/l06-arrays/l06-arrays/bin/Debug/net6.0/l06-arrays.runtimeconfig.json
+/Users/randybeebe/Desktop/C#-Course/l06-arrays/l06-arrays/bin/Debug/net6.0/l06-arrays.dll
+/Users/randybeebe/Desktop/C#-Course/l06-arrays/l06-arrays/bin/Debug/net6.0/l06-arrays.pdb
+/Users/randybeebe/Desktop/C#-Course/l06-arrays/l06-arrays/obj/Debug/net6.0/l06-arrays.csproj.AssemblyReference.cache
+/Users/randybeebe/Desktop/C#-Course/l06-arrays/l06-arrays/obj/Debug/net6.0/l06-arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/randybeebe/Desktop/C#-Course/l06-arrays/l06-arrays/obj/Debug/net6.0/l06-arrays.AssemblyInfoInputs.cache
+/Users/randybeebe/Desktop/C#-Course/l06-arrays/l06-arrays/obj/Debug/net6.0/l06-arrays.AssemblyInfo.cs
+/Users/randybeebe/Desktop/C#-Course/l06-arrays/l06-arrays/obj/Debug/net6.0/l06-arrays.csproj.CoreCompileInputs.cache
+/Users/randybeebe/Desktop/C#-Course/l06-arrays/l06-arrays/obj/Debug/net6.0/l06-arrays.dll
+/Users/randybeebe/Desktop/C#-Course/l06-arrays/l06-arrays/obj/Debug/net6.0/refint/l06-arrays.dll
+/Users/randybeebe/Desktop/C#-Course/l06-arrays/l06-arrays/obj/Debug/net6.0/l06-arrays.pdb
+/Users/randybeebe/Desktop/C#-Course/l06-arrays/l06-arrays/obj/Debug/net6.0/l06-arrays.genruntimeconfig.cache
+/Users/randybeebe/Desktop/C#-Course/l06-arrays/l06-arrays/obj/Debug/net6.0/ref/l06-arrays.dll
